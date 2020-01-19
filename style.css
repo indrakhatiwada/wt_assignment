@@ -85,6 +85,7 @@ nav li {
     display: flex;
     justify-content: center;
     align-items: center;
+   
 
 }
 .container{
@@ -95,7 +96,7 @@ nav li {
     color: #333;
 }
 .container .card{
-    margin-top: 40px;
+    margin: 40px;
     position: relative;
 
 }
@@ -120,6 +121,7 @@ nav li {
     color: #fff;
     margin-left:40px;
     font-size: 1.5em;
+    margin-top: 20px;
     
 }
 .container .card:hover .face.face1{
